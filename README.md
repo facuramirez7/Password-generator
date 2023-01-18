@@ -1,5 +1,5 @@
 # Password Generator
 ***
-* [Python](https://www.python.org/): 3.10
+*  [![Python][Python.js]][Python-url]: 3.10
 
 Password generator by Facu!
